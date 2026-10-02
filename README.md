@@ -99,6 +99,5 @@ Evaluated on the test set (150 customers, 30% of the data):
 ## Author
 
 **Palak Dwivedi**
-B.Tech Computer Science Engineering, Parul University
 
 [GitHub](https://github.com/palak-2526) | [LinkedIn](https://www.linkedin.com/in/palak-dwivedi-a355712a9/) | dpalak256@gmail.com
